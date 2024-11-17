@@ -1,0 +1,310 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: brown;
+    height: 100vh;
+}
+
+#Home {
+    background-color: #c75f11;
+    padding: 10px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    width: 100px;
+    height: auto;
+    margin-left: 50%;
+}
+
+.menu {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    margin-left: 20%;
+    
+}
+
+.menu li {
+    margin-left: 30px;
+}
+
+.menu li a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+}
+
+.titulo {
+    font-size: 40px;
+    color: black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 200px;
+}
+
+.better {
+    font-size: 50px;
+    font-family: Chalkduster, fantasy;
+    margin-left: 20px;
+}
+
+.info {
+    font-size: 20px;
+    font-family: URW Chancery L, cursive;
+    margin-left: 20px;
+}
+
+.page {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    margin-top: 8%;
+}
+
+.page .pizza img {
+    width: 400px;
+    height: auto;
+    margin-left: -70%;
+}
+
+.this{
+    margin-left: 10%;
+}
+
+.location {
+    font-size: 17px;
+    margin-left: 20px;
+}
+
+.next {
+    margin-left: 20px;
+    font-size: 40px;
+}
+
+.line1 img {
+    width: 350px;
+    height: auto;
+    margin-left: 20%;
+    margin-top: 5%;
+}
+
+.texto1 {
+    margin-left: 26%;
+    margin-top: 1%;
+    font-size: 28px;
+    font-family: fantasy;
+}
+
+.texto2 {
+    margin-left: 25%;
+    margin-top: 1%;
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.second {
+    margin-left: 40%;
+    margin-top: 5%;
+}
+
+.texto3 {
+    margin-left: 64%;
+    font-size: 28px;
+    font-family: fantasy;
+    margin-top: -12%;
+}
+
+.texto4 {
+    margin-left: 64%;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: -0%;
+}
+
+.menu-icon {
+        width: 50px;
+        height: auto;
+        vertical-align: middle;
+}
+
+.home-icon {
+    width: 50px;
+    height: auto;
+    vertical-align: middle;
+}
+
+.texto5 {
+    margin-left: 26%;
+    margin-top: 1%;
+    font-size: 28px;
+    font-family: fantasy;
+}
+
+.texto6 {
+    margin-left: 25%;
+    margin-top: 1%;
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.texto7 {
+    margin-left: 64%;
+    font-size: 28px;
+    font-family: fantasy;
+    margin-top: -12%;
+}
+
+.texto8 {
+    margin-left: 64%;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: -0%;
+}
+
+.line2 img {
+    width: 350px;
+    height: auto;
+    margin-left: 20%;
+    margin-top: 5%;
+}
+
+.info-icon {
+    width: 50px;
+    height: auto;
+    vertical-align: middle;
+}
+
+.usinfo img{
+margin-left: 10%;
+width: 450px;
+height: auto;
+margin-top: 15%;
+}
+
+h2 {
+    font-size: 50px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 60%;
+    margin-top: -23%;
+}
+
+.aboutusline {
+    width: 35%;
+    margin-left: 47%;
+}
+
+.textaboutus {
+    font-size: 25px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 42%;
+    margin-top: 5%;
+}
+
+.pizza-icon {
+    width: 50px;
+    height: auto;
+    vertical-align: middle;
+}
+
+.menupizza {
+    width: 80%;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+    margin-top: 70px;
+  }
+
+  h3 {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+    text-align: center;
+  }
+
+.pizzaline {
+        height: 2px;
+        background-color: red;
+        border-color: red;
+  }
+
+  .imagempizza {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -20px;
+    width: 100px;
+    height: auto;
+  }
+
+  h4 {
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+  }
+
+  .item p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+  }
+  
+  .flavor, .ppp {
+    text-align: left;
+    width: 75%;
+  }
+  
+  .price {
+    text-align: right;
+    width: 25%;
+  }
+
+  .entrada-icon {
+    width: 50px;
+    height: auto;
+    vertical-align: middle;
+}
+
+.bottom-line {
+    margin-top: 25px;
+  }
+
+  .drink-icon {
+    width: 50px;
+    height: auto;
+    vertical-align: middle;
+}
+
+.ice-cream-icon {
+    width: 50px;
+    height: auto;
+    vertical-align: middle;
+}
+
+.deal-icon {
+    width: 50px;
+    height: auto;
+    vertical-align: middle;
+}
+
+.titulos {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+}
+
+.corpo {
+    text-align: center;
+}
+
+.thevh {
+    height: 10vh;
+}
